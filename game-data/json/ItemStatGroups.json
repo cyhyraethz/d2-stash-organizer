@@ -8,11 +8,11 @@
       3
     ],
     "allEqual": true,
-    "descPos": "to all Attributes",
-    "descNeg": "to all Attributes",
+    "descPos": "Moditem2allattrib",
+    "descNeg": "Moditem2allattrib",
     "descFunc": 1,
     "descVal": 1,
-    "descPriority": 67
+    "descPriority": 0
   },
   {
     "stat": "group:all-res",
@@ -23,10 +23,10 @@
       45
     ],
     "allEqual": true,
-    "descPos": "All Resistances +%d",
-    "descNeg": "All Resistances +%d",
+    "descPos": "All Resistances +%d\\n",
+    "descNeg": "All Resistances +%d\\n",
     "descFunc": 19,
-    "descPriority": 40
+    "descPriority": 0
   },
   {
     "stat": "group:enhanced-dmg",
@@ -35,11 +35,11 @@
       18
     ],
     "allEqual": true,
-    "descPos": "Enhanced damage",
-    "descNeg": "Enhanced damage",
+    "descPos": "Enhanced damage\\n",
+    "descNeg": "Enhanced damage\\n",
     "descFunc": 4,
     "descVal": 1,
-    "descPriority": 130
+    "descPriority": 0
   },
   {
     "stat": "group:primary-dmg",
@@ -48,10 +48,10 @@
       22
     ],
     "isRange": true,
-    "descPos": "+%d damage",
-    "descNeg": "Adds %d-%d damage",
+    "descPos": "+%d damage\\n",
+    "descNeg": "Adds %d-%d damage\\n",
     "descFunc": 100,
-    "descPriority": 127
+    "descPriority": 0
   },
   {
     "stat": "group:secondary-dmg",
@@ -60,10 +60,10 @@
       24
     ],
     "isRange": true,
-    "descPos": "+%d damage",
-    "descNeg": "Adds %d-%d damage",
+    "descPos": "+%d damage\\n",
+    "descNeg": "Adds %d-%d damage\\n",
     "descFunc": 100,
-    "descPriority": 124
+    "descPriority": 0
   },
   {
     "stat": "group:fire-dmg",
@@ -72,10 +72,10 @@
       49
     ],
     "isRange": true,
-    "descPos": "+%d fire damage",
-    "descNeg": "Adds %d-%d fire damage",
+    "descPos": "+%d fire damage\\n",
+    "descNeg": "Adds %d-%d fire damage\\n",
     "descFunc": 100,
-    "descPriority": 102
+    "descPriority": 0
   },
   {
     "stat": "group:light-dmg",
@@ -84,10 +84,10 @@
       51
     ],
     "isRange": true,
-    "descPos": "+%d lightning damage",
-    "descNeg": "Adds %d-%d lightning damage",
+    "descPos": "+%d lightning damage\\n",
+    "descNeg": "Adds %d-%d lightning damage\\n",
     "descFunc": 100,
-    "descPriority": 99
+    "descPriority": 0
   },
   {
     "stat": "group:magic-dmg",
@@ -96,10 +96,10 @@
       53
     ],
     "isRange": true,
-    "descPos": "+%d magic damage",
-    "descNeg": "Adds %d-%d magic damage",
+    "descPos": "+%d magic damage\\n",
+    "descNeg": "Adds %d-%d magic damage\\n",
     "descFunc": 100,
-    "descPriority": 104
+    "descPriority": 0
   },
   {
     "stat": "group:cold-dmg",
@@ -109,10 +109,10 @@
       56
     ],
     "isRange": true,
-    "descPos": "+%d cold damage",
-    "descNeg": "Adds %d-%d cold damage",
+    "descPos": "+%d cold damage\\n",
+    "descNeg": "Adds %d-%d cold damage\\n",
     "descFunc": 100,
-    "descPriority": 96
+    "descPriority": 0
   },
   {
     "stat": "group:poison-dmg",
@@ -122,10 +122,10 @@
       59
     ],
     "isRange": true,
-    "descPos": "+%d poison damage over %d seconds",
-    "descNeg": "Adds %d-%d poison damage over %d seconds",
+    "descPos": "+%d poison damage over %d seconds\\n",
+    "descNeg": "Adds %d-%d poison damage over %d seconds\\n",
     "descFunc": 101,
-    "descPriority": 92
+    "descPriority": 0
   },
   {
     "stat": "group:min-dmg",
@@ -138,7 +138,7 @@
     "descNeg": "to Minimum Damage",
     "descFunc": 1,
     "descVal": 1,
-    "descPriority": 127
+    "descPriority": 0
   },
   {
     "stat": "group:max-dmg",
@@ -151,6 +151,6 @@
     "descNeg": "to Maximum Damage",
     "descFunc": 1,
     "descVal": 1,
-    "descPriority": 126
+    "descPriority": 0
   }
 ]

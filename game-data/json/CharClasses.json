@@ -3,42 +3,42 @@
     "code": "ama",
     "name": "Amazon",
     "skillsMod": "to Amazon Skill Levels",
-    "classOnly": "(Amazon Only)"
+    "classOnly": ""
   },
   {
     "code": "sor",
     "name": "Sorceress",
     "skillsMod": "to Sorceress Skill Levels",
-    "classOnly": "(Sorceress Only)"
+    "classOnly": ""
   },
   {
     "code": "nec",
     "name": "Necromancer",
     "skillsMod": "to Necromancer Skill Levels",
-    "classOnly": "(Necromancer Only)"
+    "classOnly": ""
   },
   {
     "code": "pal",
     "name": "Paladin",
     "skillsMod": "to Paladin Skill Levels",
-    "classOnly": "(Paladin Only)"
+    "classOnly": ""
   },
   {
     "code": "bar",
     "name": "Barbarian",
     "skillsMod": "to Barbarian Skill Levels",
-    "classOnly": "(Barbarian Only)"
+    "classOnly": ""
   },
   {
     "code": "dru",
     "name": "Druid",
-    "skillsMod": "to Druid Skills",
-    "classOnly": "(Druid Only)"
+    "skillsMod": "ModStre8a",
+    "classOnly": ""
   },
   {
     "code": "ass",
     "name": "Assassin",
-    "skillsMod": "to Assassin Skills",
-    "classOnly": "(Assassin Only)"
+    "skillsMod": "ModStre8b",
+    "classOnly": ""
   }
 ]
